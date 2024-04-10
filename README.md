@@ -19,7 +19,7 @@ The Real-Time Code Editor is a collaborative coding platform built using Socket.
 
 4. **Start the development server:**
 
-5. **Open your browser and navigate to `http://localhost:3000` to access the application.**
+5. **Open your browser and navigate to `http://localhost:8000` to access the application.**
 
 ## Usage
 1. **Register or log in to access the code editor.**
